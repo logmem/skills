@@ -33,3 +33,7 @@ The skills need a LogMem connection. Add the server `https://logmem.si/mcp` to y
 ## Changes
 
 The source of these skills is the `skills/` folder of the LogMem repo. Changes land there as pull requests and are copied here.
+
+## License
+
+MIT. See `LICENSE`.
